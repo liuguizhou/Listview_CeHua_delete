@@ -1,0 +1,29 @@
+Android ViewDragHelper完全解析 自定义ViewGroup神器 
+http://blog.csdn.net/lmj623565791/article/details/46858663
+
+
+Android ViewDragHelper源码解析
+http://www.cnphp6.com/archives/87727
+
+
+ViewDragHelper详解（一）- 可拖动的view
+http://www.xuebuyuan.com/2225442.html
+
+
+ViewDragHelper详解
+http://www.codes51.com/article/detail_128647.html
+
+
+Viewdraghelper解析       
+http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2015/09/23/viewDragHelper%E8%A7%A3%E6%9E%90/
+
+
+ctrl+t  显示继承类
+
+ctrl+1  选择提取局部变量为属性
+
+ctrl+o 显示当前类所有的属性和方法
+
+alt+shift+r 重命名一个字段
+
+ctrl+shift+t 按类型查找 可以查找任意一个类
